@@ -1,0 +1,7 @@
+CODEPAGE=1251
+set resource to FoxUser.dbf
+resource=<path>\FOXUSER.DBF
+COMMAND=DO FVW.PRG
+*set path to DATA,FORMS,MENU,PROG
+*command=do fvw.PRG
+*COMMAND='MODIFY PROJECT PR102.PJX'
